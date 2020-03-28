@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: mongo-boot
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: babyd
+Implementation-Vendor-Id: com.opencodez
+Build-Jdk: 1.8.0_241
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/mongo-boot
+Created-By: Maven Integration for Eclipse
+
