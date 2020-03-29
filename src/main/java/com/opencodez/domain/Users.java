@@ -15,6 +15,33 @@ public class Users {
 	private String id;
 	@Getter
 	@Setter private String name;
+	private String serverId;
+	private String language;
+	private String framework;
+	public String getServerId() {
+		return serverId;
+	}
+
+	public void setServerId(String serverId) {
+		this.serverId = serverId;
+	}
+
+	public String getLanguage() {
+		return language;
+	}
+
+	public void setLanguage(String language) {
+		this.language = language;
+	}
+
+	public String getFramework() {
+		return framework;
+	}
+
+	public void setFramework(String framework) {
+		this.framework = framework;
+	}
+
 	public String getId() {
 		return id;
 	}
